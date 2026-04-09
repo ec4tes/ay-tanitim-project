@@ -40,11 +40,7 @@ Proje, tek yönlü bir tanıtım sayfasından ziyade kullanıcı etkileşimini m
   <img src="public/screenshots/game.png" width="30%" />
 </p>
 
-<p align="center">
-  <img src="public/screenshots/earth.png" width="30%" />
-  <img src="public/screenshots/moon.png" width="30%" />
-  <img src="public/screenshots/flag.png" width="30%" />
-</p>
+
 
 ## Kullanılan Teknolojiler
 
